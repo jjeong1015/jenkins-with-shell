@@ -1,8 +1,9 @@
 # 🚀 Spring Boot 자동 배포 스크립트
 이 스크립트는 **Jenkins 기반 CI/CD 자동 배포**를 위한 배포 자동화 스크립트입니다.  
-Spring Boot 애플리케이션을 **중단 없이 업데이트**하고, **로그를 관리**하며, **기존 버전을 백업**하는 기능을 수행합니다.
+Spring Boot 애플리케이션을 **중단 없이 업데이트**하고, **로그를 관리**하며, **기존 버전을 백업**하는 기능을 수행합니다.<br>
 
-<br>
+## 기술 스택
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 
 ## 📌 이 스크립트는 언제, 왜 사용될까?
 - Jenkins와 연동하여 자동 배포할 때
@@ -50,3 +51,7 @@ echo "배포완료 및 실행됩니다."
 ## ✅ 결론
 이 스크립트는 Spring Boot 애플리케이션을 자동으로 배포 및 실행하는 CI/CD 자동화 스크립트입니다.
 Jenkins와 연동하여 무중단 배포가 가능하며, 백업 및 로그 관리 기능도 포함되어 있어 효율적인 운영이 가능합니다. 🚀
+
+## 🔍 교훈 및 적용
+
+## 🌱 발전
